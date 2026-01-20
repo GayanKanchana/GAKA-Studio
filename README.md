@@ -1,10 +1,10 @@
-# GAKA Studio
+# GykoWeb Studio
 
 **Modern Website Redesigns for Outdated Businesses**
 
-GAKA Studio is a solo website redesign service focused on transforming outdated business websites into clean, modern, and mobile-friendly experiences.
+GykoWeb Studio is a solo website redesign service focused on transforming outdated business websites into clean, modern, and mobile-friendly experiences.
 
-This repository contains the **frontend-only landing page** for GAKA Studio, built with:
+This repository contains the **frontend-only landing page** for GykoWeb Studio, built with:
 
 * HTML5
 * Tailwind CSS
@@ -13,7 +13,7 @@ This repository contains the **frontend-only landing page** for GAKA Studio, bui
 
 ## 🚀 What This Website Does
 
-* Showcases GAKA Studio services
+* Showcases GykoWeb Studio services
 * Explains the redesign process
 * Highlights problems with outdated websites
 * Provides contact via WhatsApp and Email
@@ -36,5 +36,5 @@ This website is hosted using **GitHub Pages**.
 
 ---
 
-© 2026 GAKA Studio
+© 2026 GykoWeb Studio
 Website redesign & concept service
