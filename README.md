@@ -31,7 +31,7 @@ This website is hosted using **GitHub Pages**.
 
 ## 📩 Contact
 
-* WhatsApp: +94 71 887 3392
+* WhatsApp: +94 768100398
 * Email: [2002gayankanchana@gmail.com](mailto:2002gayankanchana@gmail.com)
 
 ---
